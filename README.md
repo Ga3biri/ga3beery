@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ga3beery" target="blank"><img src="https://img.shields.io/twitter/follow/ga3beery?logo=twitter&style=for-the-badge" alt="ga3beery" /></a> </p>
 
-- 🔭 I’m currently working on [Exo](https://exo.om)
+- 🔭 I’m currently working on [Al-Rajhi Bussiness](https://www.almubasher.com.sa/business/#/login?returnUrl=%2F)
 
 - 🌱 I’m currently learning **Angular,JavaScript, TypeScript,rxjs , Html and css**
 
